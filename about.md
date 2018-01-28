@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi There! 
+I'm Felipe and I'm a dev from Brasil.    
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### What I want
+
+In this place I intend to put (almost) everything that's on my mind or things I'm doing/reading/listening. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[felipejsm41 at gmail dot com](mailto:felipejsm41@gmail.com)
