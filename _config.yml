@@ -3,17 +3,17 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kiko Now
+name: Felipe Moyses
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Dvlpr frm Br
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars3.githubusercontent.com/u/2178968?s=400&u=80c0313f8adac46468878489d69f0bf4e3a04910&v=4
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
@@ -36,12 +36,12 @@ paginate: 5
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  behance: # https://www.behance.net/<username>
+  #behance: # https://www.behance.net/<username>
   dribbble:
   email:
   facebook:
   flickr:
-  github: AWEEKJ/kiko-now
+  github: felipejsm
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -53,7 +53,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: © 2017 Kiko Now
+footer-text: © 2017 #Kiko Now
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
