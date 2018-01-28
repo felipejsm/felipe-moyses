@@ -28,8 +28,8 @@ navigation:
     url: /archive
   - name: Tags
     url: /tags
- # - name: Theme
- #   url: https://github.com/AWEEKJ/kiko-now
+  #- name: Theme
+  #  url: https://github.com/AWEEKJ/kiko-now
 
 # Pagination
 paginate: 5
@@ -70,8 +70,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl:"/felipe-moyses"
-
+baseurl:
 #
 # !! You don't need to change any of the configuration flags below !!
 #
