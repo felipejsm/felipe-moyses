@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
+title: Hi There!
 permalink: /about/
 ---
 
-Hi There!   
-I'm Felipe and I'm a dev from Brasil.    
+ 
+I'm Felipe and I'm a dev from Brasil.  :wolf:
 
 
-### What I want
+### What I want with this blog?
 
-In this place I intend to put (almost) everything that's on my mind     
-or things I'm doing/reading/listening. 
+I'm writing to improve myself as a person and show off what I'm learning/doing/listening/reading.
 
-### Contact me
+
+### Contact me @
 
 [felipejsm41 at gmail dot com](mailto:felipejsm41@gmail.com)
