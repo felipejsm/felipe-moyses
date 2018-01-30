@@ -4,9 +4,10 @@ title: My 2018 Readings Plan
 tags:
   - reading
 ---
-Hi!
-When I was younger I was a bookworm    
-Yet I've lost the "touch" of it   
+Hi!   
+As my first post in this blog I thought it would be nice to be something more _casual_ as per se      
+So... When I was younger I was a bookworm    
+Yet, I've lost the _"touch"_ of it   
 I really want to get it back, so for that reason, I've settled a goal:   
 I will read 12 books(non-tech) on this year of 2018.    
 
