@@ -11,7 +11,7 @@ And now I'm gonna show off what I intend to read and why.
 ---
 
 ## #1. Java EE Development with Eclipse - Second Edition 
-![Large example image](/images/post_2/book_1.jpg)
+![Large example image](../images/post_2/book_1.jpg)
 
 - **You can buy it [here](http://amzn.to/2s5pYJJ)**
 - **About the [author](http://bit.ly/2nL799x)**
