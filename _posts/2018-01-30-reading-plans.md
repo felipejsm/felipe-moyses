@@ -1,8 +1,9 @@
 ---
 layout: post
-title: My Reading Plan for 2018
+title: My non-technnical reading plan for 2018
 tags:
-  - reading
+  - reading 
+  - non-tech
 ---
 Hi!   
 As my first post in this blog I thought it would be nice to be something more _casual_ as per se      
