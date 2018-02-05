@@ -13,13 +13,21 @@ I will read 12 books(non-tech) on this year of 2018.
 
 My 2018 book's to read list is as follow:
 
-- #1 - The Stand
-![The Stand](http://bit.ly/2EjCVog)
+## #1 - The Stand
+![The Stand](http://bit.ly/2E34raf)    
 **Author** Stephen King
 **Status** Read     
 
-- [and then there was none](http://bit.ly/2ntCXPJ) by Agatha Christie - Read
-- [The Castle](http://bit.ly/1EzPGGD) by Franz Kafka - Reading
+## #2 - And Then There Was None     
+![and then there was none](http://bit.ly/2j1HV2I)     
+**Author** Agatha Christie      
+**Status** Read  
+
+## #3 - The Castle     
+![The Castle](http://bit.ly/2GOQRVC)     
+**Author** Franz Kafka           
+**Status** Read    
+
 - Empty Slot
 - Empty Slot
 - Empty Slot
