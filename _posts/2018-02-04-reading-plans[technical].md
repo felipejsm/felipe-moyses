@@ -43,7 +43,8 @@ It saves your time and keep your code smart.
 
 ## The Big Picture    
 ![world](../images/post_2/world.jpg)     
-There are 2 main reasons why I'm focusing on those technologies and 1 big goal.      
+
+  There are 2 main reasons why I'm focusing on those technologies and 1 big goal.      
 First one, it's really great to build enterprise applications with Java :)      
 Second one, those sharpened skills  that I gonna acquire in due time, will give me confidence as a developer and allow me to kick off my _**Not So Sexy Initiative**_.     
 And my goal is continue my career overseas, in Europe to be more precise.     
