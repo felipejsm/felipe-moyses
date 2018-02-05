@@ -16,6 +16,8 @@ I will read 12 books(non-tech) on this year of 2018.
 ## Lots of Books     
 ![lots of books](../images/post_1/books.jpg)     
 
+> "Books are a uniquely portable magic." by *Stephen King*     
+
 My 2018 book's to read list is as follow:
 
 ## #1 - The Stand
