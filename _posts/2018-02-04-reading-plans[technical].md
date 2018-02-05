@@ -40,8 +40,8 @@ It's _sine qua non_ to have a strong design pattern knowledge in your project.
 It saves your time and keep your code smart.     
 
 ## The Big Picture    
-There are 2 main reasons why I'm focusing on those technologies and 1 big goal.    
-First one, it's really great to build enterprise applications with Java :)     
+There are 2 main reasons why I'm focusing on those technologies and 1 big goal.      
+First one, it's really great to build enterprise applications with Java :)      
 Second one, those sharpened skills  that I gonna acquire in due time, will give me confidence as a developer and allow me to kick off my _**Not So Sexy Initiative**_.     
 And my goal is continue my career overseas, in Europe to be more precise.     
 
