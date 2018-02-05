@@ -16,7 +16,7 @@ My 2018 book's to read list is as follow:
 
 ## #1 - The Stand
 ![The Stand](http://bit.ly/2E34raf)    
-**Author** Stephen King
+**Author** Stephen King     
 **Status** _Read_     
 
 ## #2 - And Then There Was None     
