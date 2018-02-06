@@ -4,7 +4,7 @@ title: "My technical reading plan for 2018"
 tags: [reading, technical]
 comments: true
 ---
-In my last post, I've showed my reading plans for 2018  
+In my last [post](http://bit.ly/2GUoyoE), I've showed my reading plans for 2018  
 It was solely non-tech books   
 And now I'm gonna show off which technical books I intend to read and why.
 
