@@ -46,7 +46,8 @@ It saves your time and keep your code smart.
 
   There are 2 main reasons why I'm focusing on those technologies and 1 big goal.      
 1. it's really great to build enterprise applications with Java :)      
-2. those sharpened skills  that I gonna acquire in due time, will give me confidence as a developer and allow me to kick off my _**Not So Sexy Initiative**_.     
+2. those sharpened skills  that I gonna acquire in due time, will give me confidence as a developer and allow me to kick off my _**Not So Sexy Initiative**_.       
+
 **My goal is** to continue my career overseas, in Europe to be more precise.     
 
 Bye.
