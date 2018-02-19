@@ -11,7 +11,7 @@ tags:
 Every now and then it's possible to read/hear the aforementioned phrase    
  
 ![lazy morning](../images/post_3/lazy.jpeg)    
-*got get the image @ [unsplash](unsplash.com)*
+*got get the image @ [unsplash](https://unsplash.com/)*
 
 You might agree with it or not but it's factual that if you have the opportunity to avoid a repetitive task, well... you will do it!    
 And I'm creating a repository at my github account with the intention to do exactly that.    
