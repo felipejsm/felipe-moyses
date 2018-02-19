@@ -35,7 +35,8 @@ It will vary but I believe it'll be like as following:
 - Java 8/9;      
 - MySQL/Mongo/H2/SQLServer;     
 - AnularJS and (maybe) Angular 5;     
-- Bootstrap 4.     
+- Bootstrap 4;        
+- Lubuntu 17.10.      
 
 ### That's all folks     
 As a start, I guess I'll be alright sticking with my plan.     
