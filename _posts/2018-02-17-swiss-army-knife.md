@@ -34,7 +34,7 @@ It will vary but I believe it'll be like as following:
 - JUnit;     
 - Java 8/9;      
 - MySQL/Mongo/H2/SQLServer;     
-- AnularJS and (maybe) Angular 5;     
+- AngularJS and (maybe) Angular 5;     
 - Bootstrap 4;        
 - Lubuntu 17.10.      
 
