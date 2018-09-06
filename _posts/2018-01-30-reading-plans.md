@@ -33,9 +33,18 @@ My 2018 book's to read list is as follow:
 ## #3 - The Castle     
 ![The Castle](../images/post_1/castle.jpg)     
 **Author** Franz Kafka           
-**Status** _Reading_    
+**Status** _Read_    
 
-- Empty Slot
+## #4 - The Martian
+![The Martian]()
+**Author** Andy Weir
+**Status** _Reading_
+
+## #5 - The Winter King
+![The Winter King]()
+**Author** Bernard Cornwell
+**Status** _Reading_
+
 - Empty Slot
 - Empty Slot
 - Empty Slot
