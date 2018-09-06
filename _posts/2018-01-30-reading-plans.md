@@ -36,12 +36,12 @@ My 2018 book's to read list is as follow:
 **Status** _Read_    
 
 ## #4 - The Martian
-![The Martian](../images/post_1/martian.jpg) 
+![The Martian](../images/post_1/martian.jpg)      
 **Author** Andy Weir
 **Status** _Reading_
 
 ## #5 - The Winter King
-![The Winter King](../images/post_1/winter.jpg) 
+![The Winter King](../images/post_1/winter.jpg)     
 **Author** Bernard Cornwell
 **Status** _Reading_
 
