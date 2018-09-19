@@ -35,17 +35,21 @@ My 2018 book's to read list is as follow:
 **Author** Franz Kafka           
 **Status** _Read_    
 
-## #4 - The Martian
+## #4 - The Martian   
 ![The Martian](../images/post_1/martian.jpg)      
 **Author** Andy Weir    
-**Status** _Reading_   
+**Status** _Read_   
 
-## #5 - The Winter King
-![The Winter King](../images/post_1/winter.jpg)     
-**Author** Bernard Cornwell    
+## #5 - The Winter King   
+![The Winter King](../images/post_1/winter.jpg)        
+**Author** Bernard Cornwell      
+**Status** _Reading_     
+
+## #6 - Valley of Terror   
+![The Winter King](../images/post_1/terror.jpg)        
+**Author** Zhou Haohui         
 **Status** _Reading_    
 
-- Empty Slot
 - Empty Slot
 - Empty Slot
 - Empty Slot
