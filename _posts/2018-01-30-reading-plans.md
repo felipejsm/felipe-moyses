@@ -46,7 +46,7 @@ My 2018 book's to read list is as follow:
 **Status** _Reading_     
 
 ## #6 - Valley of Terror   
-![The Winter King](../images/post_1/terror.jpg)        
+![Valley of Terror](../images/post_1/terror.jpg)        
 **Author** Zhou Haohui         
 **Status** _Reading_    
 
