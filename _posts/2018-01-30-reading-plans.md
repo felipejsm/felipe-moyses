@@ -41,12 +41,12 @@ My 2018 book's to read list is as follow:
 **Status** _Read_   
 
 ## #5 - The Winter King   
-![The Winter King](../images/post_1/winter.jpg)        
+![The Winter King](https://en.wikipedia.org/wiki/The_Winter_King_(novel)#/media/File:TheWinterKing.jpg "The Winter King")        
 **Author** Bernard Cornwell      
 **Status** _Reading_     
 
 ## #6 - Valley of Terror   
-![Valley of Terror](../images/post_1/terror.jpg)        
+![Valley of Terror](https://images-na.ssl-images-amazon.com/images/I/417NdFClNDL._SX332_BO1,204,203,200_.jpg "Valley of Terror")        
 **Author** Zhou Haohui         
 **Status** _Reading_    
 
